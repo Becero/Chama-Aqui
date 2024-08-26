@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chama Aqui", "Chama Aqui.csproj", "{34646A57-E043-489C-AD33-A325D3BC2B81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34646A57-E043-489C-AD33-A325D3BC2B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34646A57-E043-489C-AD33-A325D3BC2B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34646A57-E043-489C-AD33-A325D3BC2B81}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{34646A57-E043-489C-AD33-A325D3BC2B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34646A57-E043-489C-AD33-A325D3BC2B81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34646A57-E043-489C-AD33-A325D3BC2B81}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4116970-E1BA-4DAF-8045-41306506FB39}
+	EndGlobalSection
+EndGlobal
